@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewModelSharedPreferents</string>
+    <string name="textView1">Welcome</string>
+    <string name="button1">+1</string>
+    <string name="button2">-1</string>
+    <string name="key">data_key</string>
+    <string name="shp_name">shp_name</string>
+</resources>
